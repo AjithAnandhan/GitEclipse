@@ -29,10 +29,6 @@ public class Employee {
 		this.empsal = empsal;
 	}
 
-	public static void main(String[] args) {
-		
-		
-
-	}
+	
 
 }
